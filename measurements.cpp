@@ -109,7 +109,7 @@ Measures available:
 1460    1470    1480    1490    500     1000    1500    2000    2500
 3000    3500    4000    4500    5000    5500    6000    6500    7000
 7500    8000    8500    9000    9500    10000   20000   30000   40000
-Maximum constructable is: 265295
+Maximum constructable is: 26.5295
 Number of possible measurements: 254414
 Number of impossible measurements: 882
 Impossible to construct:
